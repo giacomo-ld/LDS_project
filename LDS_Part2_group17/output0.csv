@@ -1,0 +1,531 @@
+region,sales_usd,brand
+thuringia,338,AMD
+thuringia,777,SILICON
+thuringia,949,KFA&SUP2
+thuringia,1873,AENEON
+thuringia,2334,MDT
+thuringia,10306,PNY
+thuringia,12875,INTENSO
+thuringia,13997,V7
+thuringia,18541,KINGMAX
+thuringia,19244,TRANSCEND
+thuringia,21132,SK
+thuringia,23267,ELIXIR
+thuringia,24624,EXTREMEMORY
+thuringia,26914,COMPUSTOCX
+thuringia,33522,INTEGRAL
+thuringia,42068,MICRON
+thuringia,73529,MUSTANG
+thuringia,77243,OCZ
+thuringia,78476,HP
+thuringia,85200,AVEXIR
+thuringia,97007,APACER
+thuringia,107794,KLEVV
+thuringia,138650,GOODRAM
+thuringia,140104,PATRIOT
+thuringia,158316,TEAM GROUP
+thuringia,160550,SAMSUNG
+thuringia,561018,GEIL
+thuringia,770333,MUSHKIN
+thuringia,953875,ADATA
+thuringia,3804374,CRUCIAL
+thuringia,4612685,KINGSTON
+thuringia,4827548,CORSAIR
+thuringia,7329077,G.SKILL
+schleswig-holstein,185,AMD
+schleswig-holstein,463,TOSHIBA
+schleswig-holstein,749,SILICON
+schleswig-holstein,2029,MDT
+schleswig-holstein,2164,KFA&SUP2
+schleswig-holstein,2216,AENEON
+schleswig-holstein,11410,PNY
+schleswig-holstein,13967,INTENSO
+schleswig-holstein,16536,V7
+schleswig-holstein,18066,TRANSCEND
+schleswig-holstein,18155,KINGMAX
+schleswig-holstein,21896,SK
+schleswig-holstein,23607,ELIXIR
+schleswig-holstein,24682,EXTREMEMORY
+schleswig-holstein,29608,MICRON
+schleswig-holstein,35286,INTEGRAL
+schleswig-holstein,73214,MUSTANG
+schleswig-holstein,78213,OCZ
+schleswig-holstein,80028,HP
+schleswig-holstein,81027,COMPUSTOCX
+schleswig-holstein,86264,APACER
+schleswig-holstein,90600,AVEXIR
+schleswig-holstein,102505,KLEVV
+schleswig-holstein,135186,PATRIOT
+schleswig-holstein,145867,GOODRAM
+schleswig-holstein,155553,SAMSUNG
+schleswig-holstein,158802,TEAM GROUP
+schleswig-holstein,543979,GEIL
+schleswig-holstein,761624,MUSHKIN
+schleswig-holstein,936215,ADATA
+schleswig-holstein,3794844,CRUCIAL
+schleswig-holstein,4598261,KINGSTON
+schleswig-holstein,4697704,CORSAIR
+schleswig-holstein,7524717,G.SKILL
+saxony-anhalt,639,SILICON
+saxony-anhalt,655,TOSHIBA
+saxony-anhalt,1753,AENEON
+saxony-anhalt,2178,KFA&SUP2
+saxony-anhalt,2601,MDT
+saxony-anhalt,11473,PNY
+saxony-anhalt,13384,INTENSO
+saxony-anhalt,16289,V7
+saxony-anhalt,17954,KINGMAX
+saxony-anhalt,19450,TRANSCEND
+saxony-anhalt,19828,SK
+saxony-anhalt,22501,ELIXIR
+saxony-anhalt,23675,EXTREMEMORY
+saxony-anhalt,25971,COMPUSTOCX
+saxony-anhalt,34454,INTEGRAL
+saxony-anhalt,40903,MICRON
+saxony-anhalt,72886,HP
+saxony-anhalt,76627,MUSTANG
+saxony-anhalt,78596,OCZ
+saxony-anhalt,88927,AVEXIR
+saxony-anhalt,92192,APACER
+saxony-anhalt,102264,KLEVV
+saxony-anhalt,137515,PATRIOT
+saxony-anhalt,149265,GOODRAM
+saxony-anhalt,152065,SAMSUNG
+saxony-anhalt,159302,TEAM GROUP
+saxony-anhalt,561399,GEIL
+saxony-anhalt,774541,MUSHKIN
+saxony-anhalt,959846,ADATA
+saxony-anhalt,3797884,CRUCIAL
+saxony-anhalt,4627903,KINGSTON
+saxony-anhalt,4701072,CORSAIR
+saxony-anhalt,7437598,G.SKILL
+saxony,727,SILICON
+saxony,1939,AENEON
+saxony,2197,MDT
+saxony,3156,KFA&SUP2
+saxony,10162,PNY
+saxony,13453,INTENSO
+saxony,15652,V7
+saxony,17966,TRANSCEND
+saxony,19073,KINGMAX
+saxony,20378,SK
+saxony,23758,ELIXIR
+saxony,27093,EXTREMEMORY
+saxony,34597,INTEGRAL
+saxony,65520,MICRON
+saxony,77681,MUSTANG
+saxony,80370,HP
+saxony,80682,COMPUSTOCX
+saxony,81259,OCZ
+saxony,86924,APACER
+saxony,89055,AVEXIR
+saxony,116828,KLEVV
+saxony,140792,GOODRAM
+saxony,141349,PATRIOT
+saxony,156808,SAMSUNG
+saxony,163592,TEAM GROUP
+saxony,552809,GEIL
+saxony,765569,MUSHKIN
+saxony,976322,ADATA
+saxony,3956637,CRUCIAL
+saxony,4638247,KINGSTON
+saxony,4725946,CORSAIR
+saxony,7368416,G.SKILL
+saarland,320,TOSHIBA
+saarland,482,SILICON
+saarland,1788,KFA&SUP2
+saarland,2074,AENEON
+saarland,2453,MDT
+saarland,11893,PNY
+saarland,13568,V7
+saarland,14923,INTENSO
+saarland,17204,KINGMAX
+saarland,18496,TRANSCEND
+saarland,21017,SK
+saarland,22595,EXTREMEMORY
+saarland,22797,ELIXIR
+saarland,25297,COMPUSTOCX
+saarland,33957,INTEGRAL
+saarland,57188,MICRON
+saarland,72766,MUSTANG
+saarland,77884,HP
+saarland,79814,OCZ
+saarland,91187,AVEXIR
+saarland,97249,APACER
+saarland,120541,KLEVV
+saarland,135227,PATRIOT
+saarland,143261,GOODRAM
+saarland,159314,SAMSUNG
+saarland,163339,TEAM GROUP
+saarland,534743,GEIL
+saarland,744589,MUSHKIN
+saarland,941296,ADATA
+saarland,3807242,CRUCIAL
+saarland,4731544,KINGSTON
+saarland,4734384,CORSAIR
+saarland,7349944,G.SKILL
+rhineland-palatinate,560,TOSHIBA
+rhineland-palatinate,575,SILICON
+rhineland-palatinate,1862,KFA&SUP2
+rhineland-palatinate,1863,AENEON
+rhineland-palatinate,2483,MDT
+rhineland-palatinate,9953,PNY
+rhineland-palatinate,15154,INTENSO
+rhineland-palatinate,16793,V7
+rhineland-palatinate,19192,SK
+rhineland-palatinate,19208,KINGMAX
+rhineland-palatinate,20684,TRANSCEND
+rhineland-palatinate,22407,EXTREMEMORY
+rhineland-palatinate,23417,ELIXIR
+rhineland-palatinate,26076,COMPUSTOCX
+rhineland-palatinate,34148,INTEGRAL
+rhineland-palatinate,61148,MICRON
+rhineland-palatinate,71088,MUSTANG
+rhineland-palatinate,75576,OCZ
+rhineland-palatinate,78784,HP
+rhineland-palatinate,88656,APACER
+rhineland-palatinate,96288,AVEXIR
+rhineland-palatinate,105541,KLEVV
+rhineland-palatinate,136889,PATRIOT
+rhineland-palatinate,147678,GOODRAM
+rhineland-palatinate,166592,SAMSUNG
+rhineland-palatinate,170970,TEAM GROUP
+rhineland-palatinate,518996,GEIL
+rhineland-palatinate,765346,MUSHKIN
+rhineland-palatinate,944297,ADATA
+rhineland-palatinate,3832297,CRUCIAL
+rhineland-palatinate,4564421,KINGSTON
+rhineland-palatinate,4693670,CORSAIR
+rhineland-palatinate,7489117,G.SKILL
+north rhine-westphalla,117,TOSHIBA
+north rhine-westphalla,736,SILICON
+north rhine-westphalla,2163,MDT
+north rhine-westphalla,2216,KFA&SUP2
+north rhine-westphalla,2342,AENEON
+north rhine-westphalla,10912,PNY
+north rhine-westphalla,13817,INTENSO
+north rhine-westphalla,16446,V7
+north rhine-westphalla,18241,KINGMAX
+north rhine-westphalla,19343,SK
+north rhine-westphalla,20242,TRANSCEND
+north rhine-westphalla,23538,ELIXIR
+north rhine-westphalla,24348,EXTREMEMORY
+north rhine-westphalla,33600,INTEGRAL
+north rhine-westphalla,70395,MICRON
+north rhine-westphalla,73757,MUSTANG
+north rhine-westphalla,80054,COMPUSTOCX
+north rhine-westphalla,80171,OCZ
+north rhine-westphalla,85111,HP
+north rhine-westphalla,92470,AVEXIR
+north rhine-westphalla,96275,APACER
+north rhine-westphalla,117392,KLEVV
+north rhine-westphalla,135515,PATRIOT
+north rhine-westphalla,140096,GOODRAM
+north rhine-westphalla,154783,SAMSUNG
+north rhine-westphalla,159020,TEAM GROUP
+north rhine-westphalla,563800,GEIL
+north rhine-westphalla,742352,MUSHKIN
+north rhine-westphalla,954778,ADATA
+north rhine-westphalla,3785548,CRUCIAL
+north rhine-westphalla,4610908,KINGSTON
+north rhine-westphalla,4732934,CORSAIR
+north rhine-westphalla,7312360,G.SKILL
+mecklenburg-vorpommern,428,TOSHIBA
+mecklenburg-vorpommern,963,SILICON
+mecklenburg-vorpommern,1774,AENEON
+mecklenburg-vorpommern,2616,MDT
+mecklenburg-vorpommern,2733,KFA&SUP2
+mecklenburg-vorpommern,9523,PNY
+mecklenburg-vorpommern,12153,INTENSO
+mecklenburg-vorpommern,16789,V7
+mecklenburg-vorpommern,18634,SK
+mecklenburg-vorpommern,19601,KINGMAX
+mecklenburg-vorpommern,20902,TRANSCEND
+mecklenburg-vorpommern,23691,EXTREMEMORY
+mecklenburg-vorpommern,24500,ELIXIR
+mecklenburg-vorpommern,26407,COMPUSTOCX
+mecklenburg-vorpommern,32772,INTEGRAL
+mecklenburg-vorpommern,42502,MICRON
+mecklenburg-vorpommern,76193,MUSTANG
+mecklenburg-vorpommern,81500,OCZ
+mecklenburg-vorpommern,83107,APACER
+mecklenburg-vorpommern,83411,HP
+mecklenburg-vorpommern,85987,AVEXIR
+mecklenburg-vorpommern,102341,KLEVV
+mecklenburg-vorpommern,136966,PATRIOT
+mecklenburg-vorpommern,140999,GOODRAM
+mecklenburg-vorpommern,158256,TEAM GROUP
+mecklenburg-vorpommern,169019,SAMSUNG
+mecklenburg-vorpommern,544507,GEIL
+mecklenburg-vorpommern,770678,MUSHKIN
+mecklenburg-vorpommern,957858,ADATA
+mecklenburg-vorpommern,3856593,CRUCIAL
+mecklenburg-vorpommern,4608270,KINGSTON
+mecklenburg-vorpommern,4803385,CORSAIR
+mecklenburg-vorpommern,7301012,G.SKILL
+lower saxony,557,TOSHIBA
+lower saxony,932,SILICON
+lower saxony,2272,AENEON
+lower saxony,2504,MDT
+lower saxony,4331,KFA&SUP2
+lower saxony,11951,PNY
+lower saxony,13107,INTENSO
+lower saxony,14676,V7
+lower saxony,18286,KINGMAX
+lower saxony,21545,SK
+lower saxony,22493,TRANSCEND
+lower saxony,22589,EXTREMEMORY
+lower saxony,25380,ELIXIR
+lower saxony,32740,INTEGRAL
+lower saxony,43580,MICRON
+lower saxony,76261,OCZ
+lower saxony,77493,MUSTANG
+lower saxony,79339,COMPUSTOCX
+lower saxony,82369,HP
+lower saxony,84050,APACER
+lower saxony,91297,AVEXIR
+lower saxony,93909,KLEVV
+lower saxony,136639,PATRIOT
+lower saxony,150845,GOODRAM
+lower saxony,151038,SAMSUNG
+lower saxony,165205,TEAM GROUP
+lower saxony,539022,GEIL
+lower saxony,763505,MUSHKIN
+lower saxony,952073,ADATA
+lower saxony,3828895,CRUCIAL
+lower saxony,4665309,KINGSTON
+lower saxony,4774482,CORSAIR
+lower saxony,7252814,G.SKILL
+hessen,164,AMD
+hessen,184,TOSHIBA
+hessen,516,SILICON
+hessen,1890,KFA&SUP2
+hessen,2105,AENEON
+hessen,3049,MDT
+hessen,10139,PNY
+hessen,13834,INTENSO
+hessen,13922,V7
+hessen,19209,TRANSCEND
+hessen,19508,KINGMAX
+hessen,21359,SK
+hessen,23124,EXTREMEMORY
+hessen,25007,ELIXIR
+hessen,30434,MICRON
+hessen,36014,INTEGRAL
+hessen,73022,HP
+hessen,78027,MUSTANG
+hessen,78954,OCZ
+hessen,79286,COMPUSTOCX
+hessen,91546,APACER
+hessen,100486,AVEXIR
+hessen,108543,KLEVV
+hessen,145821,GOODRAM
+hessen,148898,PATRIOT
+hessen,154304,TEAM GROUP
+hessen,167297,SAMSUNG
+hessen,530179,GEIL
+hessen,759202,MUSHKIN
+hessen,937101,ADATA
+hessen,3762087,CRUCIAL
+hessen,4538416,KINGSTON
+hessen,4719695,CORSAIR
+hessen,7378097,G.SKILL
+hamburg,235,TOSHIBA
+hamburg,757,SILICON
+hamburg,2102,AENEON
+hamburg,2151,KFA&SUP2
+hamburg,2787,MDT
+hamburg,9081,PNY
+hamburg,15046,INTENSO
+hamburg,16835,V7
+hamburg,18630,EXTREMEMORY
+hamburg,18978,KINGMAX
+hamburg,20692,TRANSCEND
+hamburg,20709,SK
+hamburg,23545,ELIXIR
+hamburg,25538,COMPUSTOCX
+hamburg,35751,INTEGRAL
+hamburg,63092,MICRON
+hamburg,73409,MUSTANG
+hamburg,79111,HP
+hamburg,80081,OCZ
+hamburg,91391,APACER
+hamburg,91647,AVEXIR
+hamburg,107717,KLEVV
+hamburg,139992,GOODRAM
+hamburg,142425,PATRIOT
+hamburg,154739,SAMSUNG
+hamburg,168294,TEAM GROUP
+hamburg,557871,GEIL
+hamburg,752688,MUSHKIN
+hamburg,981750,ADATA
+hamburg,3954167,CRUCIAL
+hamburg,4580902,KINGSTON
+hamburg,4686521,CORSAIR
+hamburg,7446970,G.SKILL
+bremen,128,AMD
+bremen,571,SILICON
+bremen,1895,KFA&SUP2
+bremen,2052,AENEON
+bremen,2551,MDT
+bremen,11702,PNY
+bremen,13443,INTENSO
+bremen,16513,V7
+bremen,19280,KINGMAX
+bremen,19380,SK
+bremen,21795,TRANSCEND
+bremen,24306,EXTREMEMORY
+bremen,24815,ELIXIR
+bremen,26129,COMPUSTOCX
+bremen,34104,INTEGRAL
+bremen,53208,MICRON
+bremen,75991,MUSTANG
+bremen,82945,HP
+bremen,86168,OCZ
+bremen,86743,APACER
+bremen,87395,AVEXIR
+bremen,101325,KLEVV
+bremen,132962,PATRIOT
+bremen,138921,GOODRAM
+bremen,155022,SAMSUNG
+bremen,159515,TEAM GROUP
+bremen,532582,GEIL
+bremen,768773,MUSHKIN
+bremen,947374,ADATA
+bremen,3883181,CRUCIAL
+bremen,4646105,KINGSTON
+bremen,4755554,CORSAIR
+bremen,7362256,G.SKILL
+brandenburg,168,AMD
+brandenburg,222,TOSHIBA
+brandenburg,896,KFA&SUP2
+brandenburg,906,SILICON
+brandenburg,1825,AENEON
+brandenburg,2641,MDT
+brandenburg,9960,PNY
+brandenburg,14222,INTENSO
+brandenburg,17519,V7
+brandenburg,18647,KINGMAX
+brandenburg,20203,TRANSCEND
+brandenburg,21423,SK
+brandenburg,21996,EXTREMEMORY
+brandenburg,23509,ELIXIR
+brandenburg,32415,INTEGRAL
+brandenburg,51098,MICRON
+brandenburg,78451,OCZ
+brandenburg,79162,HP
+brandenburg,79794,MUSTANG
+brandenburg,92722,APACER
+brandenburg,93825,AVEXIR
+brandenburg,103224,KLEVV
+brandenburg,132332,PATRIOT
+brandenburg,133792,COMPUSTOCX
+brandenburg,142799,GOODRAM
+brandenburg,144981,TEAM GROUP
+brandenburg,167099,SAMSUNG
+brandenburg,556626,GEIL
+brandenburg,766737,MUSHKIN
+brandenburg,946538,ADATA
+brandenburg,3814238,CRUCIAL
+brandenburg,4594574,KINGSTON
+brandenburg,4751908,CORSAIR
+brandenburg,7269226,G.SKILL
+berlin,318,AMD
+berlin,443,SILICON
+berlin,454,TOSHIBA
+berlin,1528,KFA&SUP2
+berlin,2145,AENEON
+berlin,2833,MDT
+berlin,10291,PNY
+berlin,14214,INTENSO
+berlin,17253,V7
+berlin,18498,TRANSCEND
+berlin,18771,KINGMAX
+berlin,19110,SK
+berlin,23451,ELIXIR
+berlin,24095,EXTREMEMORY
+berlin,26660,COMPUSTOCX
+berlin,29972,MICRON
+berlin,33463,INTEGRAL
+berlin,71266,MUSTANG
+berlin,82193,OCZ
+berlin,87608,HP
+berlin,95106,APACER
+berlin,96098,AVEXIR
+berlin,107587,KLEVV
+berlin,142949,GOODRAM
+berlin,148514,PATRIOT
+berlin,149271,SAMSUNG
+berlin,161378,TEAM GROUP
+berlin,544951,GEIL
+berlin,768351,MUSHKIN
+berlin,924587,ADATA
+berlin,3815245,CRUCIAL
+berlin,4672867,KINGSTON
+berlin,4736128,CORSAIR
+berlin,7338412,G.SKILL
+bavaria,363,SILICON
+bavaria,2032,AENEON
+bavaria,2444,MDT
+bavaria,2511,KFA&SUP2
+bavaria,11180,PNY
+bavaria,13732,INTENSO
+bavaria,15366,V7
+bavaria,18069,KINGMAX
+bavaria,18218,TRANSCEND
+bavaria,20107,SK
+bavaria,21256,EXTREMEMORY
+bavaria,23444,ELIXIR
+bavaria,27135,COMPUSTOCX
+bavaria,33925,INTEGRAL
+bavaria,73147,MUSTANG
+bavaria,75710,MICRON
+bavaria,78673,OCZ
+bavaria,88054,APACER
+bavaria,89013,HP
+bavaria,89102,AVEXIR
+bavaria,107973,KLEVV
+bavaria,132076,PATRIOT
+bavaria,147358,GOODRAM
+bavaria,152514,TEAM GROUP
+bavaria,164542,SAMSUNG
+bavaria,559274,GEIL
+bavaria,772960,MUSHKIN
+bavaria,972676,ADATA
+bavaria,3799009,CRUCIAL
+bavaria,4641726,KINGSTON
+bavaria,4749323,CORSAIR
+bavaria,7395806,G.SKILL
+baden-wuttemberg,428,TOSHIBA
+baden-wuttemberg,691,SILICON
+baden-wuttemberg,2129,AENEON
+baden-wuttemberg,2139,KFA&SUP2
+baden-wuttemberg,2611,MDT
+baden-wuttemberg,12107,PNY
+baden-wuttemberg,14204,INTENSO
+baden-wuttemberg,16166,V7
+baden-wuttemberg,19030,KINGMAX
+baden-wuttemberg,19531,TRANSCEND
+baden-wuttemberg,20028,SK
+baden-wuttemberg,21961,EXTREMEMORY
+baden-wuttemberg,24012,ELIXIR
+baden-wuttemberg,25754,COMPUSTOCX
+baden-wuttemberg,32253,INTEGRAL
+baden-wuttemberg,55647,MICRON
+baden-wuttemberg,70980,MUSTANG
+baden-wuttemberg,80176,HP
+baden-wuttemberg,81039,OCZ
+baden-wuttemberg,90008,APACER
+baden-wuttemberg,91472,AVEXIR
+baden-wuttemberg,98689,KLEVV
+baden-wuttemberg,135019,PATRIOT
+baden-wuttemberg,137662,GOODRAM
+baden-wuttemberg,143763,SAMSUNG
+baden-wuttemberg,171256,TEAM GROUP
+baden-wuttemberg,564805,GEIL
+baden-wuttemberg,752431,MUSHKIN
+baden-wuttemberg,939793,ADATA
+baden-wuttemberg,3738909,CRUCIAL
+baden-wuttemberg,4667119,KINGSTON
+baden-wuttemberg,4697665,CORSAIR
+baden-wuttemberg,7376421,G.SKILL
